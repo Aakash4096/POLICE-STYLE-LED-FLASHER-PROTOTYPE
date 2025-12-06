@@ -96,11 +96,11 @@ Gained both theoretical knowledge and hands-on engineering experience.
 _______________________________________________________________________________________________________
 ## THANKING OUR TEAM
 #### Project Performed By :  
-KUSHAL GARG ( 2024UEC1635 ) 
-VIRENDER MEENA ( 2024UEC1711) 
-RAHUL LAMBA ( 2024UEC1704 ) 
-PRIYANSHU MEEL ( 2024UEC1714 ) 
-AAKASH KUMAR( 2024UEC1706 ) 
+1. KUSHAL GARG ( 2024UEC1635 ) 
+2. VIRENDER MEENA ( 2024UEC1711) 
+3. RAHUL LAMBA ( 2024UEC1704 ) 
+4. PRIYANSHU MEEL ( 2024UEC1714 ) 
+5. AAKASH KUMAR( 2024UEC1706 ) 
 
 
 #### Under Guidance Of : 
