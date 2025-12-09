@@ -53,8 +53,7 @@ X
 
 
 ### Final outcome(real-time)  
-https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/blob/main/Project_Assets/POLICE-STYLE%20LED%20FLASHER.pdf
-https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/blob/main/Project_Assets/POLICE-STYLE%20LED%20FLASHER.docx
+
 ![ltspice-current-through-LED](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/blob/main/Project_Assets/Project_Electronics_Picture.jpg)
 -----------------------------------------------------------------------------------------------------------
 
@@ -127,6 +126,10 @@ Combined visual signaling (LED flashes) with audio signaling (buzzer).
 Successfully implemented: 
 •	Design → Simulation → PCB → Soldering → Testing → Final working model 
 Gained both theoretical knowledge and hands-on engineering experience. 
+
+#### PDF/DOCX link
+https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/blob/main/Project_Assets/POLICE-STYLE%20LED%20FLASHER.pdf
+https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/blob/main/Project_Assets/POLICE-STYLE%20LED%20FLASHER.docx
 -----------------------------------------------------------------------------------------------------------
 
 ## THANKING OUR TEAM
