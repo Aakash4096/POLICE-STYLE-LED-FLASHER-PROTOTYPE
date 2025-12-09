@@ -1,5 +1,7 @@
 # POLICE-STYLE-LED-FLASHER-PROTOTYPE
-## INTRODUCTION  
+## INTRODUCTION    
+
+
 •	This project is a police-style LED flasher built using the popular 555 Timer IC. 
 •	The circuit uses two 555 timers (IC 555-2) arranged in simple astable mode to generate blinking signals. 
 •	It operates from a 9V battery, making it suitable for: 
@@ -13,7 +15,9 @@ o	Stable flashing
 o	Simple timing control using RC networks. 
 -----------------------------------------------------------------------------------------------------------
 
-## COMPONENTS USED  
+## COMPONENTS USED   
+
+
 1. 555 TIMER IC (2 Pieces)
 2. RESISTORS (47Ω × 2, 1MΩ × 2)
 3. CAPACITORS (1µF Polarized + 100nF Ceramic)
@@ -79,8 +83,10 @@ o	Simple timing control using RC networks.
 The cycle repeats endlessly. 
 -----------------------------------------------------------------------------------------------------------
 
-### Timing Formula for 555 Astable Mode 
-#### First 555IC 
+### Timing Formula for 555 Astable Mode   
+
+#### First 555IC   
+
 •	ONE timing resistor (1ΜΩ) 
 •	ONE timing capacitor (1µF) 
 •	A diode around the capacitor making charge/discharge symmetrical 
@@ -104,7 +110,8 @@ Full flash cycle ≈ 1.4 seconds/10=0.14s
 
 -----------------------------------------------------------------------------------------------------------
 
-### What We Learned From This Project 
+### What We Learned From This Project   
+
 1. Understanding of Electronic Components 
 2. KiCad PCB Design Knowledge 
 3. LTSpice Simulation Skills 
@@ -113,7 +120,8 @@ Full flash cycle ≈ 1.4 seconds/10=0.14s
 
 -----------------------------------------------------------------------------------------------------------
 
-### Conclusion 
+### Conclusion   
+
 Built a fully functional Police Light + Siren Unit. 
 Combined visual signaling (LED flashes) with audio signaling (buzzer). 
 Successfully implemented: 
