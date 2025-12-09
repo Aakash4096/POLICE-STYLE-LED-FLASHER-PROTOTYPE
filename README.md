@@ -22,8 +22,11 @@ o	Simple timing control using RC networks.
 6. Buzzer
 7. Zero PCB
 -----------------------------------------------------------------------------------------------------------
-## CIRCUIT CONNECTIONS
-### KiCAD model
+## CIRCUIT CONNECTIONS   
+
+### KiCAD model  
+
+ 
 ![Kicad-schematics](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/kicad-assets/schematics-kicad.png)        
 
 
@@ -45,11 +48,14 @@ o	Simple timing control using RC networks.
 
 
 
-### Final outcome(real-time)
+### Final outcome(real-time)  
+
+  
 ![ltspice-current-through-LED](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/Project_Electronics_Picture.jpg)
 -----------------------------------------------------------------------------------------------------------
 
-### Working Principle 
+### Working Principle   
+
 1. Charging Phase (Output HIGH) 
 •	The 1µF capacitor charges through R1 and 0.1µF capacitor charges through R3  . 
 •	While it charges from 1/3 Vcc → 2/3 Vcc, the 555 output (Pin 3) stays HIGH. 
