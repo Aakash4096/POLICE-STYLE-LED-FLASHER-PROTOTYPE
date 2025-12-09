@@ -11,7 +11,7 @@ o	Electronics hobby demonstrations
 o	Minimal components 
 o	Stable flashing 
 o	Simple timing control using RC networks. 
-____________________________________________________________________________________________
+-----------------------------------------------------------------------------------------------------------
 
 ## COMPONENTS USED  
 1. 555 TIMER IC (2 Pieces)
@@ -21,18 +21,33 @@ ________________________________________________________________________________
 5. 12V/9V Battery
 6. Buzzer
 7. Zero PCB
-_______________________________________________________________________________________________
+-----------------------------------------------------------------------------------------------------------
 ## CIRCUIT CONNECTIONS
 ### KiCAD model
-![Kicad-schematics](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/kicad-assets/schematics-kicad.png)
-![Kicad-wiring](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/kicad-assets/PCB-2d-kicad-wiring.png)
-![Kicad-3D](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/kicad-assets/PCB-3d-kicad.png)
+![Kicad-schematics](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/kicad-assets/schematics-kicad.png)        
+
+
+
+![Kicad-wiring](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/kicad-assets/PCB-2d-kicad-wiring.png)        
+
+
+
+![Kicad-3D](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/kicad-assets/PCB-3d-kicad.png)        
+
+
+
 ### LtSpice Model
-![ltspice-schematics](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/ltspice-assets/ltspice-schematics.png)
-![ltspice-current-through-LED](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/ltspice-assets/LtSpice-current-LED.png)
+![ltspice-schematics](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/ltspice-assets/ltspice-schematics.png)        
+
+
+
+![ltspice-current-through-LED](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/ltspice-assets/LtSpice-current-LED.png)       
+
+
+
 ### Final outcome(real-time)
 ![ltspice-current-through-LED](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/Project_Electronics_Picture.jpg)
-_________________________________________________________________________________________________
+-----------------------------------------------------------------------------------------------------------
 
 ### Working Principle 
 1. Charging Phase (Output HIGH) 
@@ -56,7 +71,7 @@ ________________________________________________________________________________
  → Flip-flop sets 
  → Output returns HIGH 
 The cycle repeats endlessly. 
-____________________________________________________________________________________________________
+-----------------------------------------------------------------------------------------------------------
 
 ### Timing Formula for 555 Astable Mode 
 #### First 555IC 
@@ -78,7 +93,8 @@ Full flash cycle ≈ 1.4 seconds
 About 0.7 seconds ON and 0.7 seconds OFF 
 #### Second 555IC 
 Full flash cycle ≈ 1.4 seconds/10=0.14s 
-_____________________________________________________________________________________________________
+-----------------------------------------------------------------------------------------------------------
+
 ### What We Learned From This Project 
 1. Understanding of Electronic Components 
 2. KiCad PCB Design Knowledge 
@@ -86,14 +102,16 @@ ________________________________________________________________________________
 4. Real-Time Testing and Troubleshooting 
 5. Hands-on Experience 
 
-___________________________________________________________________________________________________
+-----------------------------------------------------------------------------------------------------------
+
 ### Conclusion 
 Built a fully functional Police Light + Siren Unit. 
 Combined visual signaling (LED flashes) with audio signaling (buzzer). 
 Successfully implemented: 
 •	Design → Simulation → PCB → Soldering → Testing → Final working model 
 Gained both theoretical knowledge and hands-on engineering experience. 
-_______________________________________________________________________________________________________
+-----------------------------------------------------------------------------------------------------------
+
 ## THANKING OUR TEAM
 #### Project Performed By :  
 1. KUSHAL GARG ( 2024UEC1635 ) 
