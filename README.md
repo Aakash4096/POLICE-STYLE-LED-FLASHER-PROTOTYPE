@@ -27,7 +27,7 @@ o	Simple timing control using RC networks.
 7. Zero PCB
 -----------------------------------------------------------------------------------------------------------
 ## CIRCUIT CONNECTIONS   
-
+X
 ### KiCAD model  
 
  
@@ -35,7 +35,7 @@ o	Simple timing control using RC networks.
 
 
 
-![Kicad-wiring](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/tree/main/Project_Assets/kicad-assets/PCB-2d-kicad-wiring.png)        
+![Kicad-wiring](https://github.com/Aakash4096/POLICE-STYLE-LED-FLASHER-PROTOTYPE/blob/main/Project_Assets/kicad-assets/PCB-2d-kicad-wiring.png)        
 
 
 
