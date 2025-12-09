@@ -97,8 +97,11 @@ Same resistor, same capacitor.
 TTOTAL THIGH + TLOW T=0.693+0.6931.386 seconds 
 Full flash cycle ≈ 1.4 seconds 
 About 0.7 seconds ON and 0.7 seconds OFF 
-#### Second 555IC 
+#### Second 555IC   
+
+
 Full flash cycle ≈ 1.4 seconds/10=0.14s 
+
 -----------------------------------------------------------------------------------------------------------
 
 ### What We Learned From This Project 
