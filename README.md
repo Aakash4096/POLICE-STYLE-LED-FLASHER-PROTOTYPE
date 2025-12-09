@@ -27,7 +27,8 @@ o	Simple timing control using RC networks.
 7. Zero PCB
 -----------------------------------------------------------------------------------------------------------
 ## CIRCUIT CONNECTIONS   
-X
+
+
 ### KiCAD model  
 
  
